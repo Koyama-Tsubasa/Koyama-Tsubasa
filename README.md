@@ -5,8 +5,10 @@
   <a href="https://www.nthu.edu.tw/">National Tsing Hua University</a>, 
   <a href="https://dcs.site.nthu.edu.tw/">Department of Computer Science</a>
 </b></p>
-
-- **Bachelor of [Tamkang University](https://www.tku.edu.tw/), [Department of Computer Science and Information Engineering](http://www.csie.tku.edu.tw/)**
+<p><b>Bachelor of 
+  <a href="[https://www.nthu.edu.tw/](https://www.tku.edu.tw/)">Tamkang University</a>, 
+  <a href="[https://dcs.site.nthu.edu.tw/](http://www.csie.tku.edu.tw/)">Department of Computer Science and Information Engineering</a>
+</b></p>
 
 ---
 <h3 align="left">Connect with me:</h3>

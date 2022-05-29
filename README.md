@@ -1,6 +1,6 @@
 <h1 align="center">Koyama Tsubasa</h1>
 
-<h3 align="left">Education:</h3>
+<h2 align="left">Education</h2>
 <p><b>Master of 
   <a href="https://www.nthu.edu.tw/">National Tsing Hua University</a>, 
   <a href="https://dcs.site.nthu.edu.tw/">Department of Computer Science</a>

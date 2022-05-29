@@ -18,10 +18,6 @@
       <a href="http://www.csie.tku.edu.tw/">Department of Computer Science and Information Engineering</a></b>
     </td>
   </tr>
-  <tr>
-    <td>2014_07 - 2017_07</td>
-    <td><b><a href="https://www.hs.ntnu.edu.tw/">The Affiliated Senior High School of National Taiwan Normal University</a></b></td>
-  </tr>
 </table>
 
 ---

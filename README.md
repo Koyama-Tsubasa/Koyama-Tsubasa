@@ -1,4 +1,4 @@
-<h1 align="center">Koyama Tsubasa</h1>
+<h1 align="center">Koyama Tsubasa (小山翼)</h1>
 
 <h2 align="left">Education:</h2>
 <table align="center">

@@ -6,8 +6,8 @@
   <a href="https://dcs.site.nthu.edu.tw/">Department of Computer Science</a>
 </b></p>
 <p><b>Bachelor of 
-  <a href="[https://www.nthu.edu.tw/](https://www.tku.edu.tw/)">Tamkang University</a>, 
-  <a href="[https://dcs.site.nthu.edu.tw/](http://www.csie.tku.edu.tw/)">Department of Computer Science and Information Engineering</a>
+  <a href="https://www.tku.edu.tw/">Tamkang University</a>, 
+  <a href="http://www.csie.tku.edu.tw/">Department of Computer Science and Information Engineering</a>
 </b></p>
 
 ---

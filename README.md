@@ -20,7 +20,7 @@
       <a href="http://www.csie.tku.edu.tw/">Department of Computer Science and Information Engineering</a></b>
     </td>
   </tr>
-</table>
+</table><a href="連結網址" target="_blank">另外開啟新視窗</a>
 
 ---
 <h3 align="left">Connect with me:</h3>

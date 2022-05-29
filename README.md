@@ -1,6 +1,16 @@
 <h1 align="center">Koyama Tsubasa</h1>
 
 <h2 align="left">Education</h2>
+<table>
+  <tr>
+    <td>2021_09 - present</td>
+    <td>
+      <b>Master of 
+      <a href="https://www.nthu.edu.tw/">National Tsing Hua University</a>, 
+      <a href="https://dcs.site.nthu.edu.tw/">Department of Computer Science</a></b>
+    </td>
+  </tr>
+</table>
 <p>
   <b>Master of 
   <a href="https://www.nthu.edu.tw/">National Tsing Hua University</a>, 

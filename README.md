@@ -3,9 +3,8 @@
 <h2 align="left">Education</h2>
 <p><b>Master of 
   <a href="https://www.nthu.edu.tw/">National Tsing Hua University</a>, 
-  <a href="https://dcs.site.nthu.edu.tw/">Department of Computer Science</a>
-</b></p>
-<p><b>Bachelor of 
+  <a href="https://dcs.site.nthu.edu.tw/">Department of Computer Science</a></br>
+  Bachelor of 
   <a href="https://www.tku.edu.tw/">Tamkang University</a>, 
   <a href="http://www.csie.tku.edu.tw/">Department of Computer Science and Information Engineering</a>
 </b></p>

@@ -1,2 +1,2 @@
-# Koyama Tsubasa
-### E
+# **Koyama Tsubasa**
+### Education

@@ -11,12 +11,16 @@
     </td>
   </tr>
   <tr>
-    <td>2017_07 - 2021_09</td>
+    <td>2017_09 - 2021_07</td>
     <td>
       <b>Bachelor of 
       <a href="https://www.tku.edu.tw/">Tamkang University</a>, 
       <a href="http://www.csie.tku.edu.tw/">Department of Computer Science and Information Engineering</a></b>
     </td>
+  </tr>
+  <tr>
+    <td>2014_07 - 2017_07</td>
+    <td>aa<>
   </tr>
 </table>
 

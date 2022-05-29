@@ -4,9 +4,8 @@
 
 **2021_09 - present:  Master of [National Tsing Hua University](https://www.nthu.edu.tw/), [Department of Computer Science](https://dcs.site.nthu.edu.tw/)**
 
-- Email: **a0918050152@gmail.com**
-
 ---
+- Email: **a0918050152@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,10 +1,10 @@
 <h1 align="center">Koyama Tsubasa</h1>
 
 <h2 align="left">Education</h2>
-<h3><b>Master of 
+<h4><b>Master of 
   <a href="https://www.nthu.edu.tw/">National Tsing Hua University</a>, 
-  <a href="[https://www.nthu.edu.tw/](https://dcs.site.nthu.edu.tw/)">Department of Computer Science</a>
-</b></h3>
+  <a href="https://dcs.site.nthu.edu.tw/">Department of Computer Science</a>
+</b></h4>
 
 - **Bachelor of [Tamkang University](https://www.tku.edu.tw/), [Department of Computer Science and Information Engineering](http://www.csie.tku.edu.tw/)**
 

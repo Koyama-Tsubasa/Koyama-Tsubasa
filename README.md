@@ -3,6 +3,8 @@
 <h2 align="left">Education</h2>
 
 - **Master of [National Tsing Hua University](https://www.nthu.edu.tw/), [Department of Computer Science](https://dcs.site.nthu.edu.tw/)**
+<h4>2021_09 - present</h4>
+
 - **Bachelor of [Tamkang University](https://www.tku.edu.tw/), [Department of Computer Science and Information Engineering](http://www.csie.tku.edu.tw/)**
 
 ---

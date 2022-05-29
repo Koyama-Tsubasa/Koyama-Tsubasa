@@ -3,16 +3,16 @@
 <h2 align="left">Education</h2>
 <table align="center">
   <tr>
-    <td bgcolor="red">2021_09 - present</td>
-    <td bgcolor="white">
+    <td>2021_09 - present</td>
+    <td>
       <b>Master of 
       <a href="https://www.nthu.edu.tw/">National Tsing Hua University</a>, 
       <a href="https://dcs.site.nthu.edu.tw/">Department of Computer Science</a></b>
     </td>
   </tr>
   <tr>
-    <td bgcolor="white">2017_09 - 2021_07</td>
-    <td bgcolor="white">
+    <td>2017_09 - 2021_07</td>
+    <td>
       <b>Bachelor of 
       <a href="https://www.tku.edu.tw/">Tamkang University</a>, 
       <a href="http://www.csie.tku.edu.tw/">Department of Computer Science and Information Engineering</a></b>

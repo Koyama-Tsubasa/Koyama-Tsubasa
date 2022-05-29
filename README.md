@@ -1,9 +1,8 @@
-# Koyama Tsubasa
+<h1 align="left">Koyama Tsubasa</h1>
 ---
-## Education
+<h3 align="left">Education</h3>
 **2021_09 - present:  Master of [National Tsing Hua University](https://www.nthu.edu.tw/), [Department of Computer Science](https://dcs.site.nthu.edu.tw/)**
 
-<h3 align="center">aaa</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

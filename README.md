@@ -1,7 +1,7 @@
 <h1 align="center">Koyama Tsubasa</h1>
 
 <h2 align="left">Education</h2>
-<table border="none">
+<table border-style="none">
   <tr>
     <td>2021_09 - present</td>
     <td>

@@ -1,7 +1,7 @@
 <h1 align="center">Koyama Tsubasa</h1>
 
 <h2 align="center">Education</h2>
-**a**
+** a **
 **2021_09 - present:  Master of [National Tsing Hua University](https://www.nthu.edu.tw/), [Department of Computer Science](https://dcs.site.nthu.edu.tw/)**
 
 - Email: **a0918050152@gmail.com**

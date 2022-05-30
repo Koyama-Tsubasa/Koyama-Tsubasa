@@ -1,6 +1,6 @@
 <h1 align="center">Koyama Tsubasa</h1>
 
-** Per Aspera Ad Astra **
+**Per Aspera Ad Astra**
 
 ---
 <h2 align="left">Education:</h2>

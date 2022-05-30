@@ -1,5 +1,5 @@
 <h1 align="center">Koyama Tsubasa</h1>
-<h3 align="center">Per Aspera Ad Astra</h3>
+<h3 align="center"><i>Per Aspera Ad Astra</i></h3>
 
 ---
 <h2 align="left">Education:</h2>

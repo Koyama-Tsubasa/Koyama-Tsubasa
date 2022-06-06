@@ -5,7 +5,7 @@
 <h2 align="left">Education:</h2>
 <table align="center">
   <tr>
-    <td>2021_09 - present</td>
+    <td>2021/09 - present</td>
     <td>
       <b>Master of 
       <a href="https://www.nthu.edu.tw/" target="_blank">National Tsing Hua University</a>, 
@@ -13,7 +13,7 @@
     </td>
   </tr>
   <tr>
-    <td>2017_09 - 2021_07</td>
+    <td>2017/09 - 2021/07</td>
     <td>
       <b>Bachelor of 
       <a href="https://www.tku.edu.tw/">Tamkang University</a>, 

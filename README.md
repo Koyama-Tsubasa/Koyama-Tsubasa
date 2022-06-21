@@ -25,6 +25,7 @@
 ---
 <h3 align="left">Connect with me:</h3>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=nord_bright" align="right"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koyama-Tsubasa&theme=nord_bright" align="right"/>
 <p align="left">
 <a href="mailto:a0918050152@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://fb.com/ktsubasa0304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ktsubasa0304" height="30" width="40" /></a>

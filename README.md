@@ -1,5 +1,7 @@
 <h1 align="center">Koyama Tsubasa</h1>
-<img align="center" src="https://www.sololibri.net/local/cache-vignettes/L600xH158/per-aspera-ad-astra-significato-73f5b.jpg?1621430476" />
+<p align="center">
+  <img src="https://www.sololibri.net/local/cache-vignettes/L600xH158/per-aspera-ad-astra-significato-73f5b.jpg?1621430476" />
+</p>
 
 ---
 <h2 align="left">Education:</h2>

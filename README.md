@@ -39,6 +39,7 @@
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koyama-Tsubasa&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=solarized)
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koyama-tsubasa&show_icons=true&locale=en&layout=compact" alt="koyama-tsubasa" />

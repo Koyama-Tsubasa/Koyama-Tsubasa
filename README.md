@@ -38,6 +38,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koyama-Tsubasa&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koyama-Tsubasa&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koyama-Tsubasa&theme=nord_bright)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/K_Tsubasa?theme=forest&font=Noto%20Sans%20JP&ext=activity)

@@ -23,7 +23,7 @@
 </table>
 
 ---
-<img width="50%" height="50%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:a0918050152@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>

@@ -40,5 +40,5 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koyama-Tsubasa&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=nord_bright)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koyama-Tsubasa&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koyama-Tsubasa&theme=nord_bright)  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/K_Tsubasa?theme=forest&font=Noto%20Sans%20JP&ext=activity)

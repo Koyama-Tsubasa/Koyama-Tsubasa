@@ -23,7 +23,8 @@
 </table>
 
 ---
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=nord_bright" align="right">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koyama-Tsubasa&theme=nord_bright" align="right" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=nord_bright" align="right" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

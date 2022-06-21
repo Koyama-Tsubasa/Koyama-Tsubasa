@@ -23,7 +23,7 @@
 </table>
 
 ---
-<p><img align="right" width=50% height=50% src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" width="50%" height="50%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:a0918050152@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>

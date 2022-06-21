@@ -1,4 +1,5 @@
 <h1 align="center">Koyama Tsubasa</h1>
+<img align="center" src="https://www.sololibri.net/local/cache-vignettes/L600xH158/per-aspera-ad-astra-significato-73f5b.jpg?1621430476" />
 <h3 align="center"><i>Per Aspera Ad Astra</i></h3>
 
 ---
@@ -39,7 +40,6 @@
 </p>
 
 ---
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" />
 <h2 align="left">Statistical Data:</h2>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=nord_bright)  

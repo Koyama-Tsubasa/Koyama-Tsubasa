@@ -43,6 +43,5 @@
 ---
 <h2 align="left">Statistical Data:</h2>
 
-
-![](https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=K_Tsubasa)
+![LeetCode Stat Card](https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=K_Tsubasa)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=nord_bright)

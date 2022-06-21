@@ -40,7 +40,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koyama-Tsubasa&theme=nord_bright)
 
-<p align=""left>
+<p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=nord_bright" /></br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koyama-Tsubasa&theme=nord_bright" />
   

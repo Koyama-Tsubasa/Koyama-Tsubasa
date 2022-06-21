@@ -40,7 +40,7 @@
 
 ---
 <h2 align="left">Statistical Data:</h2>
-<img align="right" src="https://thumbs.gfycat.com/ExemplaryFairFeline-mobile.mp4" />
+<img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=nord_bright)  
 ![](https://leetcard.jacoblin.cool/K_Tsubasa?theme=forest&font=Noto%20Sans%20JP&ext=activity)

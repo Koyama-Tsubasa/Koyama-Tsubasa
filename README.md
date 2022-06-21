@@ -42,9 +42,6 @@
 
 ---
 <h2 align="left">Statistical Data:</h2>
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=K_Tsubasa" width="400"/>
-</a>
 
-![](https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=K_Tsubasa)
+![]( https://leetcode-stat-api.herokuapp.com/K_Tsubasa/)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=nord_bright)

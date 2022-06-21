@@ -40,12 +40,7 @@
 
 ---
 <h2 align="left">Statistical Data:</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koyama-tsubasa&show_icons=true&locale=en&layout=compact" alt="koyama-tsubasa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koyama-tsubasa&show_icons=true&locale=en" alt="koyama-tsubasa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koyama-tsubasa&" alt="koyama-tsubasa" /></p>
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=nord_bright)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=nord_bright)
+![](https://github-readme-stats.vercel.app/api?username=koyama-tsubasa&show_icons=true&locale=en)  
 ![](https://leetcard.jacoblin.cool/K_Tsubasa?theme=forest&font=Noto%20Sans%20JP&ext=activity)

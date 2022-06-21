@@ -43,10 +43,10 @@
 <p align=""left>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=nord_bright" /></br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koyama-Tsubasa&theme=nord_bright" />
-  <a href="https://leetcard.jacoblin.cool/K_Tsubasa?theme=forest&font=Noto%20Sans%20JP&ext=activity">LeetCode Stats</a>
+  
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/K_Tsubasa?theme=forest&font=Noto%20Sans%20JP&ext=activity) 
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/K_Tsubasa?theme=forest&font=Noto%20Sans%20JP&ext=activity) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=nord_bright)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koyama-Tsubasa&theme=nord_bright)  

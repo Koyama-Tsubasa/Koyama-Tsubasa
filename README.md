@@ -25,7 +25,7 @@
 ---
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> **a0918050152@gmail.com**
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> **a0918050152@gmail.com**
 <p align="left">
 <a href="https://fb.com/ktsubasa0304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ktsubasa0304" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/k_tsubasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="k_tsubasa" height="30" width="40" /></a>

@@ -39,8 +39,8 @@
 </p>
 
 ---
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <h2 align="left">Statistical Data:</h2>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=nord_bright)
-![](https://github-readme-stats.vercel.app/api?username=koyama-tsubasa&show_icons=true&locale=en)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=nord_bright)  
 ![](https://leetcard.jacoblin.cool/K_Tsubasa?theme=forest&font=Noto%20Sans%20JP&ext=activity)

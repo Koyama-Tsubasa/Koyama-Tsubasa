@@ -43,6 +43,6 @@
 ---
 <h2 align="left">Statistical Data:</h2>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=nord_bright)
+![LeetCode Stats](https://leetcard.jacoblin.cool/lionleo103?theme=light&font=Noto%20Sans%20JP&ext=activity)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=nord_bright)  
 ![](https://leetcode-stat-api.herokuapp.com/K_Tsubasa/)
-![LeetCode Stats](https://leetcard.jacoblin.cool/Koyama-Tsubasa?theme=light&font=Noto%20Sans%20JP&ext=activity)

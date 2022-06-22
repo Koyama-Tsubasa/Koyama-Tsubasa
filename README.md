@@ -46,3 +46,4 @@
 <img align="left" width="55%" src="https://leetcard.jacoblin.cool/K_Tsubasa?theme=forest&font=ABeeZee" />
 <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=nord_bright" />
 </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=koyama-tsubasa&show_icons=true&locale=en&layout=compact" alt="koyama-tsubasa" /></p>

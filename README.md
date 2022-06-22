@@ -42,7 +42,6 @@
 
 ---
 <h2 align="left">Statistical Data:</h2>
+<img width="50%" src="https://leetcard.jacoblin.cool/K_Tsubasa?theme=forest&font=ABeeZee">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/K_Tsubasa?theme=forest&font=ABeeZee)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=nord_bright)  
-![](https://leetcode-stat-api.herokuapp.com/K_Tsubasa/)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=nord_bright)

@@ -1,4 +1,4 @@
-<h1 align="center">Koyama Tsubasa</h1>
+<h1 align="center">Tsubasa Koyama</h1>
 <p align="center">
   <img src="https://www.sololibri.net/local/cache-vignettes/L600xH158/per-aspera-ad-astra-significato-73f5b.jpg?1621430476" />
 </p>

@@ -45,7 +45,7 @@
 ---
 <h2 align="left">Statistical Data:</h2>
 <p>
-<img align="left" width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Koyama-Tsubasa?exclude_repo=HTML" />
+<img align="left" width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Koyama-Tsubasa?exclude_repo='https://github.com/Koyama-Tsubasa/HTML'" />
 <img width="55%" src="https://leetcard.jacoblin.cool/K_Tsubasa?theme=forest&font=ABeeZee" />
 </p>
 http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=nord_bright

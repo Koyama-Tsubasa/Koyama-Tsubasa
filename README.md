@@ -48,4 +48,4 @@
 <img align="left" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koyama-Tsubasa&theme=nord_bright" />
 <img width="55%" src="https://leetcard.jacoblin.cool/K_Tsubasa?theme=forest&font=ABeeZee" />
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koyama-Tsubasa&layout=compact)](https://github.com/Koyama-Tsubasa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koyama-Tsubasa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

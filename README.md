@@ -48,4 +48,3 @@
 <img align="left" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Koyama-Tsubasa&layout=compact&hide=javascript,html&theme=react" />
 <img width="52%" src="https://leetcard.jacoblin.cool/K_Tsubasa?theme=nord&font=ABeeZee" />
 </p>
-source.verilog

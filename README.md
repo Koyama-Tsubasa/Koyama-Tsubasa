@@ -7,7 +7,7 @@
 <h2 align="left">Education:</h2>
 <table align="center">
   <tr>
-    <td>09/2021 - present</td>
+    <td>09/2021 - 07/2023</td>
     <td>
       <b>Master of 
       <a href="https://www.nthu.edu.tw/">National Tsing Hua University</a>, 

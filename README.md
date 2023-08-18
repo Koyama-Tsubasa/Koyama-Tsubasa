@@ -9,7 +9,7 @@
   <tr>
     <td>09/2023 - present</td>
     <td>
-      <b>Software Engineer, 
+      <b>Software Engineer at  
       <a href="https://www.cadence.com/en_US/home.html/">Cadence Design Systems, Inc.</a>,
       Taiwan</b>
     </td>

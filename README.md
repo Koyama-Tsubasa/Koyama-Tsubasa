@@ -4,6 +4,19 @@
 </p>
 
 ---
+<h2 align="left">Employment History:</h2>
+<table align="center">
+  <tr>
+    <td>09/2023 - present</td>
+    <td>
+      <b>Software Engineer, 
+      <a href="https://www.cadence.com/en_US/home.html/">Cadence Design Systems, Inc.</a>,
+      Taiwan</b>
+    </td>
+  </tr>
+</table>
+
+---
 <h2 align="left">Education:</h2>
 <table align="center">
   <tr>

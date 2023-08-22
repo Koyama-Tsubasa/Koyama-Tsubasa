@@ -9,7 +9,8 @@
   <tr>
     <td>09/2023 - present</td>
     <td>
-      <b>Software Engineer at  
+      <b>Software Engineer,
+      <a href="https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/silicon-signoff/pegasus-verification-system.html">Pegasus Verification System</a>,
       <a href="https://www.cadence.com/en_US/home.html/">Cadence Design Systems, Inc.</a>,
       Taiwan</b>
     </td>

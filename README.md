@@ -10,8 +10,8 @@
     <td>09/2023 - present</td>
     <td>
       <b>Software Engineer,
-      <a href="https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/silicon-signoff/pegasus-verification-system.html">Pegasus Verification System</a>,
-      <a href="https://www.cadence.com/en_US/home.html/"><i>Cadence Design Systems, Inc.</i></a>,
+      <a href="https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/silicon-signoff/pegasus-verification-system.html" target="_blank">Pegasus Verification System</a>,
+      <a href="https://www.cadence.com/en_US/home.html/" target="_blank"><i>Cadence Design Systems, Inc.</i></a>,
       Taiwan</b>
     </td>
   </tr>
@@ -24,16 +24,16 @@
     <td>09/2021 - 08/2023</td>
     <td>
       <b>MSc, 
-      <a href="https://dcs.site.nthu.edu.tw/">Computer Science</a>, 
-      <a href="https://www.nthu.edu.tw/"><i>National Tsing Hua University</i></a>, Taiwan</b>
+      <a href="https://dcs.site.nthu.edu.tw/" target="_blank">Computer Science</a>, 
+      <a href="https://www.nthu.edu.tw/" target="_blank"><i>National Tsing Hua University</i></a>, Taiwan</b>
     </td>
   </tr>
   <tr>
     <td>09/2017 - 06/2021</td>
     <td>
       <b>BSc, 
-      <a href="http://www.csie.tku.edu.tw/">Computer Science and Information Engineering</a>, 
-      <a href="https://www.tku.edu.tw/"><i>Tamkang University</i></a>, Taiwan</b>
+      <a href="http://www.csie.tku.edu.tw/" target="_blank">Computer Science and Information Engineering</a>, 
+      <a href="https://www.tku.edu.tw/" target="_blank"><i>Tamkang University</i></a>, Taiwan</b>
     </td>
   </tr>
 </table>

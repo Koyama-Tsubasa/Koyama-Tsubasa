@@ -11,7 +11,7 @@
     <td>
       <b>Software Engineer,
       <a href="https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/silicon-signoff/pegasus-verification-system.html">Pegasus Verification System</a>,
-      <a href="https://www.cadence.com/en_US/home.html/">Cadence Design Systems, Inc.</a>,
+      <a href="https://www.cadence.com/en_US/home.html/"><i>Cadence Design Systems, Inc.</i></a>,
       Taiwan</b>
     </td>
   </tr>

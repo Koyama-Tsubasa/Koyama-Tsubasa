@@ -23,17 +23,17 @@
   <tr>
     <td>09/2021 - 08/2023</td>
     <td>
-      <b>Master of 
-      <a href="https://www.nthu.edu.tw/">National Tsing Hua University</a>, 
-      <a href="https://dcs.site.nthu.edu.tw/">Department of Computer Science</a></b>
+      <b>MSc, 
+      <a href="https://dcs.site.nthu.edu.tw/">Computer Science</a>
+      <a href="https://www.nthu.edu.tw/"><i>National Tsing Hua University</i></a>, Taiwan</b>
     </td>
   </tr>
   <tr>
     <td>09/2017 - 06/2021</td>
     <td>
-      <b>Bachelor of 
-      <a href="https://www.tku.edu.tw/">Tamkang University</a>, 
-      <a href="http://www.csie.tku.edu.tw/">Department of Computer Science and Information Engineering</a></b>
+      <b>BSc, 
+      <a href="http://www.csie.tku.edu.tw/">Computer Science and Information Engineering</a>
+        <a href="https://www.tku.edu.tw/"><i>Tamkang University</i></a>, Taiwan</b>
     </td>
   </tr>
 </table>

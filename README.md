@@ -24,7 +24,7 @@
     <td>09/2021 - 08/2023</td>
     <td>
       <b>MSc, 
-      <a href="https://dcs.site.nthu.edu.tw/">Computer Science</a>
+      <a href="https://dcs.site.nthu.edu.tw/">Computer Science</a>, 
       <a href="https://www.nthu.edu.tw/"><i>National Tsing Hua University</i></a>, Taiwan</b>
     </td>
   </tr>
@@ -32,8 +32,8 @@
     <td>09/2017 - 06/2021</td>
     <td>
       <b>BSc, 
-      <a href="http://www.csie.tku.edu.tw/">Computer Science and Information Engineering</a>
-        <a href="https://www.tku.edu.tw/"><i>Tamkang University</i></a>, Taiwan</b>
+      <a href="http://www.csie.tku.edu.tw/">Computer Science and Information Engineering</a>, 
+      <a href="https://www.tku.edu.tw/"><i>Tamkang University</i></a>, Taiwan</b>
     </td>
   </tr>
 </table>

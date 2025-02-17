@@ -1,6 +1,6 @@
 <h1 align="center">Tsubasa Koyama</h1>
 <p align="center">
-  <img src="https://www.sololibri.net/local/cache-vignettes/L600xH158/per-aspera-ad-astra-significato-73f5b.jpg?1621430476" />
+  <img src="pictures/per_aspera_ad_astra.png" />
 </p>
 
 ---

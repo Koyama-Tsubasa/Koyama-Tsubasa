@@ -1,6 +1,6 @@
 <h1 align="center">Tsubasa Koyama</h1>
 <p align="center">
-  <img src="pictures/per_aspera_ad_astra.png" />
+  <img src="pictures/per_aspera_ad_astra.jpg" />
 </p>
 
 ---

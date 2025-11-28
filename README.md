@@ -58,6 +58,6 @@
 ---
 <h2 align="left">Statistical Data:</h2>
 <p>
-<img align="left" width="41%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Koyama-Tsubasa&layout=compact&hide=javascript,html&theme=react" />
+<img align="left" width="41%" src="https://github-stats-card-generator.vercel.app/api/svg?username=Koyama-Tsubasa&type=languages&theme=github&chart=pie" />
 <img width="56%" src="https://leetcard.jacoblin.cool/K_Tsubasa?theme=nord&font=ABeeZee" />
 </p>
